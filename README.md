@@ -1,5 +1,6 @@
 # Facial-Keypoints-Detection
-<h3>It is a model to locate facial keypoints. It predict 30 features i.e. 'left_eye_center_x', 'left_eye_center_y', 'right_eye_center_x',
+<h3>It is a model to locate facial keypoints.</h3> 
+       <p>It predict 30 features i.e. 'left_eye_center_x', 'left_eye_center_y', 'right_eye_center_x',
        'right_eye_center_y', 'left_eye_inner_corner_x',
        'left_eye_inner_corner_y', 'left_eye_outer_corner_x',
        'left_eye_outer_corner_y', 'right_eye_inner_corner_x',
@@ -12,10 +13,11 @@
        'mouth_left_corner_x', 'mouth_left_corner_y', 'mouth_right_corner_x',
        'mouth_right_corner_y', 'mouth_center_top_lip_x',
        'mouth_center_top_lip_y', 'mouth_center_bottom_lip_x',
-       'mouth_center_bottom_lip_y'.
+       'mouth_center_bottom_lip_y'.</p>
+ <h3>Example :-</h3>
 <span>
-  <img src="result.png" width="1000" height:"1200" title="Starting interface">
+  <img src="result.png" width="200" height:"220" title="Starting interface">
 </span>
 <span >
-  <img src="result1.png" width="1000" height:"1000" title="Starting interface">
+  <img src="result2.png" width="200" height:"220" title="Starting interface">
 </span>
