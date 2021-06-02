@@ -16,8 +16,8 @@
        'mouth_center_bottom_lip_y'.</p>
  <h3>Example :-</h3>
 <span>
-  <img src="result.png" width="200" height:"220" title="Starting interface">
+  <img src="result.png" width="400" height:"440" title="Starting interface">
 </span>
 <span >
-  <img src="result2.png" width="200" height:"220" title="Starting interface">
+  <img src="result2.png" width="400" height:"440" title="Starting interface">
 </span>
